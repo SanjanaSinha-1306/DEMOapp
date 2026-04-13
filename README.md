@@ -2,7 +2,7 @@
 
 A modern fullstack application featuring a **React + Vite** frontend and a **Node.js/Express** backend. This project demonstrates a secure authentication flow using Login/Signup, protected routes, and session management via cookies.
 
-## 🚀 Live Demo
+
 
 
 ## 🏗️ Project Structure
